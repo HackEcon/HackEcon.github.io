@@ -7,11 +7,12 @@ I am a PhD student in the Department of Economics at the [University of Mannheim
 My main research interests lie in macroeconomics and public economics.
 
 <font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
-### [Curriculum Vitae (PDF)](Hack_Lukas-CV.pdf)
+### [Curriculum Vitae (PDF)](cv_lh.pdf)
 
 <br>
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
+### This website is in preparation!
 
 ### Working Papers:
 <details>
