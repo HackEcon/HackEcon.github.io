@@ -44,3 +44,17 @@ My main research interests lie in macroeconomics and public economics.
  </details>
  
  ----
+ <br>
+
+<details>
+  <summary markdown="span"><font color="blue">"tba"</font>
+    
+  (with [some co-author](www.kicker.de))
+  <br><a href="www.kicker.de"><u>[Working Paper]</u></a> </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | Some abstract. |
+  
+ </details>
+ ----
