@@ -30,25 +30,12 @@ My main research interests lie in macroeconomics and public economics.
  
  <br>
  
- 
-### Old Working Papers:
 <br>
+
+### Old Working Papers:
+
 <details>
   <summary markdown="span"><font color="blue">"On the determinants of wealth inequality: an overlapping generations approach"</font>
-    
-  Master's thesis
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | to be written. |
-  
- </details>
- 
- ----
-
-
-<details>
-  <summary markdown="span"><font color="blue">"tba"</font>
     
   (with [some co-author](www.kicker.de))
   <br><a href="www.kicker.de"><u>[Working Paper]</u></a> </summary>
