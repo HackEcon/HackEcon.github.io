@@ -1,5 +1,7 @@
 {::options parse_block_html="true" /}
 
+### This website is in preparation!
+
 ### Welcome!
 
 I am a PhD student in the Department of Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/).
@@ -11,8 +13,6 @@ My main research interests lie in macroeconomics and public economics.
 
 <br>
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
-
-### This website is in preparation!
 
 ### Working Papers:
 <details>
